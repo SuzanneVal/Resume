@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.welcome {
+    color: #FF0099AA;
+}
+
+.dnd {
+    color: #1518cee5;
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
+
+.games {
+    color: #3a0db4b2;
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
+
+.about {
+    color: rgb(58, 8, 116);
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
+
+.grid {
+    display:grid;
+    background-color: rgb(63, 138, 217);
+    width: 600px;
+    height: 500px;
+    border: solid 2px blue;
+    grid-template-rows: 30% 30% 30%;
+    align-items: center;
+    margin: 0 auto;
+}
