@@ -3,7 +3,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    text-align: center;
 }
 * {
     font-family: Helvectica, Arial, sans-serif;
@@ -12,6 +11,7 @@ body {
 h1, h2, li {
     color: rgb(233, 36, 134);
     font-family: math;
+    text-align: center;
 }
 
 p, li {
