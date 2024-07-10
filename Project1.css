@@ -2,7 +2,7 @@ body {
     background-image: url("project1.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin: 0 auto;
+    background-size: cover;
     text-align: center;
 }
 * {
