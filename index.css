@@ -1,7 +1,6 @@
 body {
     background-image: url("indexbg.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
     background-attachment: fixed;
     text-align: center;
 }
